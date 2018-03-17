@@ -1,0 +1,107 @@
+/*================
+*
+*
+* theme3 color css
+*
+*
+================*/
+
+/* background color */
+/*.story,
+.contact,
+.leaders,
+.single-bar,
+.feature-icon,
+.app-icon:hover,
+.logo-background,
+.special-feature,
+.btn.btn-default,
+.social-links .fa,
+.appro-store:hover,
+.app-store .app-icon,
+.back-scroll:hover a,
+.leader-overflow::before,
+ul.post-info li.post-tag,
+.why-choose-us .question,
+.service-box .service-icon,
+.navbar-brand.default-logo::after,
+.pricing-table.highlight-list,
+.intro .carousel-indicators li,
+.single-leader .leader-overflow,
+.testimonials .carousel-indicators li.active,
+.navbar-default .navbar-brand.default-logo:focus,
+.navbar-default .navbar-brand.default-logo:hover,
+.app-screenshot.owl-carousel .owl-controls .owl-nav i:hover,
+.why-choose-us .panel-title a[aria-expanded="true"]:before{
+    background-color: #0F83C1;
+}*/
+
+
+.story,
+.contact,
+.leaders,
+.single-bar,
+.feature-icon,
+.app-icon:hover,
+.logo-background,
+.special-feature,
+.btn.btn-default,
+.social-links .fa,
+.appro-store:hover,
+.app-store .app-icon,
+.back-scroll:hover a,
+.leader-overflow::before,
+ul.post-info li.post-tag,
+.why-choose-us .question,
+.service-box .service-icon,
+.navbar-brand.default-logo::after,
+.pricing-table.highlight-list,
+.intro .carousel-indicators li,
+.single-leader .leader-overflow,
+.testimonials .carousel-indicators li.active,
+.app-screenshot.owl-carousel .owl-controls .owl-nav i:hover,
+.why-choose-us .panel-title a[aria-expanded="true"]:before{
+    background-color: #0F83C1;
+}
+
+
+.single-title span{
+    background-color: rgba(15, 131, 193, 0.5);
+}
+
+.app-screenshot .single-slide .screenshot-overflow {
+  background: rgba(15, 131, 193, 0.9);
+}
+
+/* font color */
+a,
+.color,
+a:hover,
+.twitter span,
+.center-divider,
+.back-scroll a,
+h2.small-tag,
+.footer p a:hover,
+.testimonials .quote,
+.testimonials strong,
+.service-box .service-tag,
+.contact .list-unstyled > li > i,
+.why-choose-us .list-unstyled > li,
+.why-choose-us .panel-title a[aria-expanded="true"],
+.special-feature .media:hover .special-feature-icon,  
+.default-menu.navbar-default .navbar-nav > li > a:hover,
+.default-menu.navbar-default .navbar-nav > .active > a,  
+.default-menu.navbar-default .navbar-nav > .active > a:hover{
+    color: #0F83C1;
+}
+
+/* border color */
+h2.small-tag,
+.btn.btn-default,
+.back-scroll:hover a,
+.center-divider::after,
+.left-divider::before,
+.contact .list-unstyled > li > i,
+.app-screenshot.owl-carousel .owl-controls .owl-nav i:hover{
+    border-color: #0F83C1;
+}
