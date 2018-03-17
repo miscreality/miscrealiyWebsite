@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "public": "websitemain",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "storage": {
+    "rules": "all"
+  }
+}

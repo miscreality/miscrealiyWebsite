@@ -1,0 +1,329 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="./img/favicon.ico" type="image/x-icon">
+    <title>Xenture Inc | Xenture Technology Pvt Ltd</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/responsive-slider.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/animate.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link href="css/style.css" rel="stylesheet">	
+	
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>	  
+	  <header>
+         <nav class="navbar navbar-default nav1 nav2 fixed" style="z-index: 9999">
+            <div class="container">
+              
+               <div class="navbar-header">
+                  <button type="button" class="navbar-toggle collapsed button1" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" style="margin-top: 35px;margin-right: 25px;"> 
+                  <span class="sr-only">Toggle navigation</span> 
+                  <span class="icon-bar"></span> 
+                  <span class="icon-bar"></span> 
+                  <span class="icon-bar"></span> 
+                  </button> 
+                  <a class="navbar-brand" href="index.html"> 
+				  <img class="wow animated fadeIn animated lgooosa  animated animated" data-wow-duration="1s" data-wow-delay="0.4s" src="./img/xenture-logo.png" alt="" style="visibility: visible;-webkit-animation-duration: 1s; -moz-animation-duration: 1s; animation-duration: 1s;-webkit-animation-delay: 0.4s; -moz-animation-delay: 0.4s; animation-delay: 0.4s;"></a> 
+               </div>
+             
+               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                  <ul class="nav navbar-nav navbar-right " id="navTab" style="text-align: center;">               
+                     <li role="presentation"><a href="index.html">Home</a></li>
+                     <li role="presentation"><a href="tech.html">What We Do</a></li>                  
+                     <li role="presentation"><a href="innovation.html">Innovation</a></li>
+                     <li role="presentation"><a href="aboutUs.html">About Us</a></li>
+                     <li role="presentation"><a href="contact.html">Contact</a></li>                   
+                  </ul>
+               </div>             
+            </div>           
+         </nav>
+      </header>
+
+	<!--header>
+		<div class="container">
+			<div class="row">
+				<nav class="navbar navbar-default navbar-fixed-top nav1 nav2 fixed" role="navigation">
+					<div class="container-fluid">						
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed button1" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> 
+							<span class="sr-only">Toggle navigation</span> 
+							<span class="icon-bar"></span> 
+							<span class="icon-bar"></span> 
+							<span class="icon-bar"></span> 
+							</button> 
+							<a class="navbar-brand" href="index.html"> 
+							<img class="wow animated fadeIn animated lgooosa  animated" data-wow-duration="1s" data-wow-delay="0.4s" src="./img/xenture-logo.png" alt=""style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeIn;"></a> 
+              		 </div>
+						<div class="menu collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav navbar-right " >
+								    <li><a href="index.html">Home</a></li>									
+								 	<li><a href="tech.html">What We Do</a></li>                  
+									<li><a href="innovation.html">INNOVATION</a></li>
+									<li><a href="aboutUs.html">About Us</a></li>
+									<li><a href="contact.html">Contact</a></li>   					
+							</ul>
+						</div>
+					</div>			
+				</nav>
+			</div>
+		</div>
+	</header>
+	
+	<!-- Responsive slider - START -->
+	<div class="slider">
+		<div class="">
+			<div class="">
+				<div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
+					<div class="slides" data-group="slides">						
+						<ul style="position: relative; right: 2692px;">
+							<li>
+								<div class="slide-body" data-group="slide">
+									<img src="img/iim.jpg" alt="" class="img-responsive">									
+								</div>
+							</li><li>
+								<div class="slide-body" data-group="slide">
+									<img src="img/banner.jpg" alt="" class="img-responsive">
+								</div>					
+							</li>
+							<li>
+								<div class="slide-body" data-group="slide">
+									<img src="img/trabaajo.jpg" alt="" class="img-responsive">
+								</div>					
+							</li>
+							<li>
+								<div class="slide-body" data-group="slide">
+									<img src="img/6.jpg" alt="" class="img-responsive">
+								</div>
+							</li>
+							<li>
+								<div class="slide-body" data-group="slide">
+									<img src="img/iim.jpg" alt="" class="img-responsive">									
+								</div>
+							</li><li>
+								<div class="slide-body" data-group="slide">
+									<img src="img/banner.jpg" alt="" class="img-responsive">
+								</div>					
+							</li>					
+						</ul>
+					</div>			   
+					<a class="slider-control left" href="#" data-jump="prev"><i class="fa fa-angle-left fa-2x"></i></a>
+					<a class="slider-control right" href="#" data-jump="next"><i class="fa fa-angle-right fa-2x"></i></a>		
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- Responsive slider - END -->
+		<div class="content">
+			<h2><span>“ WE BELIEVE IN DOING BUSINESS WITH A DIFFERENCE ”</span></h2>
+			
+		</div>
+	<div class="breadcrumb">
+		<h4>Vision</h4>	
+	</div>	
+	<div>
+		<p id="vision-id"> “ We aim to be the trendsetters in the market along with building a business which has a positive impact on the lives of the people.
+			To provide the best of solutions to our clients in all our work. ” </p>
+	</div>
+	<br>
+	<br>
+	<div class="breadcrumb">
+		<h4>MISSION</h4>
+	</div>
+	<div>
+		<p id="vision-id">   “ To be unique with our approach in using technology and build products which are not only useful but also help ease the lives of our customers in the best way possible. ” </p>
+	</div>
+	
+		
+	<div class="container">
+		<div class="row">
+			<div class="boxs">				
+				<div class="col-md-4">
+					<div class="wow bounceIn" data-wow-offset="0" data-wow-delay="0.8s" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;-webkit-animation-delay: 0.8s; -moz-animation-delay: 0.8s; animation-delay: 0.8s;">
+						<div class="align-center">
+							<h4>Technology</h4>					
+							<div class="icon-img">
+								<img id="tech-id" src="img/tech.png" alt="aaaa">
+								<!-- <i class="fa fa-heart-o fa-3x"></i> -->
+							</div>
+							<p>
+								Connecting masses and making lives simpler through technology initiatives
+							</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="wow bounceIn" data-wow-offset="0" data-wow-delay="1.3s" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;-webkit-animation-delay: 1.3s; -moz-animation-delay: 1.3s; animation-delay: 1.3s;">
+						<div class="align-center">
+							<h4>Media</h4>				
+							<div class="icon-img">
+								<img id="media-id" src="img/media.png" alt="aaaa">
+							</div>
+							<p>
+							 Connecting Souls through our creative and original imagination
+							</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="wow bounceIn" data-wow-offset="0" data-wow-delay="1.8s" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;-webkit-animation-delay: 1.8s; -moz-animation-delay: 1.8s; animation-delay: 1.8s;">
+						<div class="align-center">
+							<h4>Consulting</h4>					
+							<div class="icon-img">
+								<img id="con-id" src="img/consulting.png" alt="aaaa">
+							</div>
+							<p>
+							 Nurturing Innovation
+							</p>
+							
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	
+	<div class="breadcrumb">
+		<h4>OUR INNOVATION</h4>
+	</div>
+	
+	<div class="container">
+		<div class="row">
+			<div class="">				
+				<div class="col-md-7">
+					<div class="wow bounceIn" data-wow-offset="0" data-wow-delay="0.8s" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;-webkit-animation-delay: 0.8s; -moz-animation-delay: 0.8s; animation-delay: 0.8s;">						
+						<img src="img/trabaajo-screen.png" alt="" class="img-responsive">					
+					</div>
+				</div>
+				<div class="col-md-5" style="display:block;margin: auto;">
+					<div class="wow bounceIn" data-wow-offset="0" data-wow-delay="1.3s" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;-webkit-animation-delay: 1.3s; -moz-animation-delay: 1.3s; animation-delay: 1.3s;">
+						<div class="list-group">
+							<a href="http://www.trabaajo.com" target="_blank">
+								<!-- <h4 class="list-group-item-heading">Trabaajo logo</h4> -->
+								<img id="trabaajo-logo" src="./img/trabaajo-logo.png">
+								
+								<!-- <p class="list-group-item-text">praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias  -->
+								<!-- </p>	 -->
+							</a>
+							<div style="text-align: center; margin-top: 16px;">
+								<div class="list-group-item-heading"><div class="trabaajo_link">Awarded Best Recruitment Application </div></div>
+								<p class="list-group-item-text" style="text-align: center;    font-size: 30px;">HRD Congress 2017 
+								</p>								
+							</div>
+							<div>						
+								<p class="list-group-item-text" style="margin-top: 30px;text-align: center;">A smart recruitment application, Trabaajo is the first of its kind mobile application for job search and 
+recruitment facilities for all positions and domains across the global.
+								</p>								
+							</div>
+							<br>
+							<br>
+							<div id="icon-logo">						
+								<a href="https://play.google.com/store/apps/details?id=com.trabaajo.app&amp;hl=en" target="_blank"><img src="img/banner-google.png"></a>
+								<a href="https://itunes.apple.com/in/app/trabaajo/id1180702923?mt=8" target="_blank"><img src="img/banner-apple.png"></a>								
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	<hr>
+	<!--start footer-->
+<footer>		
+		<div class="container">
+			<div class="row">				
+				<div class="col-lg-4">
+					<div class="widget" style="padding: 15px;">
+						<!-- <h4 class="widgetheading">About Us</h4>						 -->
+						<ul class="link-list" style="text-align:center;padding-left: 0px;">
+							<li class="widgetheading">About Us</li>
+							<br>
+							<li><a href="aboutUs.html">Who we are</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="widget" style="padding: 15px;">
+						<ul class="link-list" style="text-align:center;padding-left: 0px;">
+							<li class="widgetheading">Our Innovations</li>
+							<br>
+							<li><a href="http://trabaajo.com/" target="_blank">Trabaajo</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="widget" style="padding: 15px;">
+						<ul class="link-list" style="text-align:center;padding-left: 0px;">
+							<li class="widgetheading">Company</li>
+							<br>
+							<li><a href="media.html">Media</a></li>
+							<li><a href="contact.html">Contact us</a></li>
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+
+		<div class="sub-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<ul class="social-network" style="margin-left: -34px;">
+							<li><a target="_blank" href="https://www.facebook.com/xenturetech/" data-placement="top" title="Facebook"><img class="footer-logo" src="./img/facebook-logo.png"></a></li>
+							<li>
+								<a target="_blank" href="https://in.linkedin.com/company/xenture-technologies-pvt-ltd" data-placement="top" title="Linkedin"><img class="footer-logo" src="./img/linkedin_logo.png"></a>
+							</li>
+
+						</ul>
+					</div>
+					<div class="col-lg-12">
+						<div class="copyright">
+							<p>
+								<span>©Xenture Inc 2016-2017 All right reserved. By </span><a href="http://xenture.co/" target="_blank">Xenture Technologies Pvt Ltd</a>
+							</p>
+							<!-- 
+                                All links in the footer should remain intact. 
+                                Licenseing information is available at: http://bootstraptaste.com/license/
+                                You can buy this theme without footer links online at: http://bootstraptaste.com/buy/?theme=Resi
+                            -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!--end footer-->
+	
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-2.1.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/responsive-slider.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script>
+	wow = new WOW(
+	 {
+	
+		}	) 
+		.init();
+	</script>
+  
+</body></html>
